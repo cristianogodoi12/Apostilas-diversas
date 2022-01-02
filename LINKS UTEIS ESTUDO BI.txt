@@ -1,0 +1,33 @@
+﻿LINK UTEIS:
+
+ETL:
+
+
+https://vivianeribeiro1.wordpress.com/2011/06/28/o-que-e-etl-2/
+
+FERRAMENTAS DE ETL:  DATA STAGE IBM
+
+BUSINESS:
+
+https://vivianeribeiro1.wordpress.com/category/business-intelligence/modelagem-dimensional/
+
+O que é Data Warehouse?
+
+https://vivianeribeiro1.wordpress.com/2011/03/30/o-que-e-data-warehouse/
+
+Um data warehouse é utilizado para armazenar informações relativas às atividades de 
+uma organização de forma consolidada. Possibilita a análise de grandes volumes de dados, que são coletados
+ a partir de sistemas transacionais (OLTP – Online Transaction Processing)
+
+4 FERRAMENTAS QUE IRÃO POTENCIALIZAR OS RESULTADOS DA MINERAÇÃO DE DADOS 
+
+
+https://blogbrasil.westcon.com/4-ferramentas-que-irao-potencializar-os-resultados-da-mineracao-de-dados
+
+10 ferramentas e bibliotecas para trabalhar com data mining e Big Data – Parte 02
+
+
+https://imasters.com.br/data/10-ferramentas-e-bibliotecas-para-trabalhar-com-data-mining-e-big-data-parte-02
+
+
+https://transformacaodigital.com/dados/tudo-o-que-voce-precisa-saber-sobre-analises-olap/
